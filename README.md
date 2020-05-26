@@ -1,3 +1,7 @@
+## MOVED
+
+https://gitlab.com/interception/linux/plugins/dual-function-keys
+
 ## NAME
 
 dfk - dual function keys
